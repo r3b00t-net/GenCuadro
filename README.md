@@ -20,7 +20,7 @@ Ingresa el carácter que deseas usar para el marco.
 ```
 
 # Ejemplo
-
+```
 Ingresa el texto que deseas poner en el centro: Hola Mundo
 Ingresa el carácter que deseas usar para el marco (*, =, -, etc.): *
 
@@ -33,6 +33,7 @@ Ingresa el carácter que deseas usar para el marco (*, =, -, etc.): *
 *                                                *
 *                                                *
 **************************************************
+```
 
 # Requisitos
 Python 3.x
