@@ -8,14 +8,16 @@ Este programa genera un cuadro de texto con un marco personalizado alrededor del
    ```bash
    git clone https://github.com/tu-usuario/tu-repositorio.git
    cd tu-repositorio
+   ```
 
 # Ejecuta el programa:
-
+```bash
 python gen-cuadro.py
 
 Ingresa el texto que deseas poner en el centro cuando se te solicite.
 
 Ingresa el carácter que deseas usar para el marco.
+```
 
 # Ejemplo
 
