@@ -7,7 +7,7 @@ Este programa genera un cuadro de texto con un marco personalizado alrededor del
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/n3xusx/GenCuadro.git
-   cd tu-repositorio
+   cd GenCuadro
    ```
 
 # Ejecuta el programa:
